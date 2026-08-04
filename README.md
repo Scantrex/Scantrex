@@ -45,8 +45,8 @@ Consolidar las bases de programación en varios lenguajes Crear proyectos cada v
 <br>
 📊 Estadísticas
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Scantrex&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=2B2F36&icon_color=6C7A89&text_color=4A4A4A&count_private=true" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scantrex&layout=compact&hide_border=true&bg_color=00000000&title_color=2B2F36&text_color=4A4A4A&langs_count=8" width="38%" /> <br> <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Scantrex&hide_border=true&background=00000000&ring=6C7A89&fire=6C7A89&currStreakLabel=2B2F36" width="60%" /> </div> <br>
-🏆 Logros
-<div align="center"> <img src="https://github-trophies.vercel.app/?username=Scantrex&theme=flat&no-frame=true&row=1&column=6&margin-w=15" alt="Trofeos de GitHub"/> </div> <br>
+📈 Actividad reciente
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Scantrex&bg_color=00000000&color=6C7A89&line=6C7A89&point=2B2F36&area=true&hide_border=true" alt="Gráfico de actividad"/> </div> <br>
 📂 Proyectos
 <details> <summary><strong>Ver qué encontrarás en mis repositorios</strong></summary> <br>
 
